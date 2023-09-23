@@ -1,8 +1,8 @@
 const config = {
-  projectId: 'lbs5w627',
+  projectId: 'h4ih8cdc',
   dataset: 'production',
   apiVersion: '2023-09-20',
-  useCdn: false,
+  useCdn: true,
 };
 
 export default config;

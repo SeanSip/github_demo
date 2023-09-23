@@ -3,9 +3,9 @@ import { deskTool } from 'sanity/desk';
 import schemas from './sanity/schemas';
 
 const config = defineConfig({
-  projectId: 'lbs5w627',
+  projectId: 'h4ih8cdc',
   dataset: 'production',
-  title: 'Sanity Headless CMS Practice',
+  title: 'Testing CMS',
   apiVersion: '2023-09-20',
   basePath: '/admin',
   plugins: [deskTool()],
